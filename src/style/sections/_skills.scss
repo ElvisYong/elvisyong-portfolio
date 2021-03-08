@@ -1,0 +1,17 @@
+#skills {
+  margin-bottom: 5rem;
+
+  h1{
+    margin: 1rem;
+  }
+  .list-title {
+    color: $secondary-color;
+  }
+
+  i {
+    font-size: 7rem;
+    margin: 3rem;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
