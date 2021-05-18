@@ -25,6 +25,7 @@ function App() {
     setProjects([...projectsData]);
     setContact({ ...contactData });
     setFooter({ ...footerData });
+    fuck this shit
   }, []);
 
   return (
